@@ -1,6 +1,6 @@
 {
-    "name": "movie_app",
-    "short_name": "movie_app",
+    "name": "flutter_movie_ticket",
+    "short_name": "flutter_movie_ticket",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
